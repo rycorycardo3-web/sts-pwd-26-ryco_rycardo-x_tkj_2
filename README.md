@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sts-pwd-26-ryco_rycardo-x_tkj_2
-=======
 # PT Indomarco Prismatama (Indomaret)
 
 ## 1. Judul dan Tagline
@@ -53,4 +50,3 @@ Dengan mengamati perilaku belanja masyarakat yang menginginkan kelengkapan produ
 
 ## 11. Cara Membuka Hasil Website
 > "Buka file `index.html` menggunakan browser (seperti Google Chrome, Mozilla Firefox, atau Microsoft Edge) untuk melihat tampilan situs hasil proyek ini."
->>>>>>> 02823c4 (feat: add basic html structure)
